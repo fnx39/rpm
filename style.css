@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://fonts.googleapis.com/css?family=Charmonman');
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script');
+p{
+	margin:0 0 15px;
+	color: hsl(0, 0%, 24%);
+	font-size: 16px;
+}
+
+.title {
+	font-size: 1.5rem;
+}
+.desc{
+	font-size: 1rem;
+}
+
+.repro{
+	color: white;
+	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	text-align: center;
+}
+
+.nav-ul ul, li{
+	text-align: center;
+	list-style-type: none;
+	float: left;
+	padding-right: 30px;
+	text-transform: uppercase;
+	line-height: 1.1px;
+	margin-top: 15px;
+}
+a {
+	font-family: 'Oswald', sans-serif;
+	font-size: 15px;
+	color: 	#000000 ;
+}
+a:hover {
+	text-decoration: nover;
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.image_wrapper {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	text-align: center;
+    margin-bottom: 15px;
+}
+.title2 {
+	color:#0095eb;
+	font-weight: 300;
+	min-width: 400px;
+	font-size: 38px;
+	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	margin-top: -17rem;
+	text-align: center;
+}
+.fa {
+    background-color: #292c2f;
+    right: 10px;
+    top: 1px;
+	font-size: 1em;
+    text-align: left;
+    margin-left: 0px;
+	padding: 4px;
+	font-size: 20px;
+	width: 30px;
+	text-decoration: none;
+}
+
+.fa:hover {
+    opacity: 0.7;
+    color: blue;
+    font-style: italic;
+}
+
+.fa-facebook {
+  background: #292c2f;
+  color: white;
+}
+
+.fa-youtube {
+  background: #292c2f;
+  color: white;
+}
+
+.fa-instagram {
+  background: #292c2f;
+  color: white;	
+}
+
+.fa-skype {
+  background:#292c2f;
+  color: white;
+}
+.rodape{
+	font-size: 1em;
+    text-align: left;
+    margin-left: 100px;
+	width: 98%;
+	padding-top: 30px;
+	font-family: font-family: 'Charmonman', cursive;
+	font-size: 12px;
+	color: black;
+}
+a.link {
+	font-family: 'Oswald', sans-serif;
+	font-size: 12px;
+	color: black;
+}
+a.link:hover {
+	text-decoration: nover;
+	color: blue;
+	font-weight: bold;
+	font-size: 15px;
+}
+.letra{
+	color:black;
+	font-weight: 400;
+	font-size: 70px;
+	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	text-align: center;
+}
+.motor {
+	position: relative;
+	background-color: #343a40;
+	background: url("img/dl.jpg") no-repeat center center;
+	background-size: cover;
+	padding-top: 8rem;
+	padding-bottom: 55rem;
+}
+.title3 {
+	color: rgb(60, 179, 113);
+	font-weight: 400;
+	font-size: 50px;
+	font-family: "Roboto", Arial, Tahoma, sans-serif;
+	text-align: center;
+}
+.texto{
+	font: inherit;
+	font-weight: 400;
+	font-size: 14px;
+	text-align: center;	
+}
+.titlesub{
+	color: hsl(0, 100%, 75%);
+	font-size: 25px;
+    line-height: 29px;
+    font-weight: 300;
+    letter-spacing: 0px;
+    font-family: "Roboto", Arial, Tahoma, sans-serif;
+    margin-bottom: 15px;
+}
